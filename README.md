@@ -1,10 +1,12 @@
 # Medical_Speech_Transcription
- 
- Goal: Transcribing patient audio of symptoms & classification of complaints into 25 medical categories
- 
- #### Project by Michele Waters
 
-### Files
+ ## Project by Michele Waters
+ 
+ ### Goal:
+ 
+* Transcribing patient audio of symptoms & classification of complaints into 25 medical categories.
+ 
+### Files:
 
 * 'Medical_Speech_Transcription.ipynb': explores using SpeechRecognition to convert audio files to text data
 
